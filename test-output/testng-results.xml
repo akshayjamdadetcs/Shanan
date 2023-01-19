@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[running VerifyText]]>
+    </line>
+    <line>
+      <![CDATA[logout from application]]>
+    </line>
+    <line>
+      <![CDATA[Close browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-17T15:36:05 IST" name="Default suite" finished-at="2023-01-17T15:36:32 IST" duration-ms="26848">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T15:36:05 IST" name="Default test" finished-at="2023-01-17T15:36:32 IST" duration-ms="26848">
+      <class name="pagefactory_TestNG.Test1">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:pagefactory_TestNG.Test1@16610890]" started-at="2023-01-17T15:36:05 IST" name="OpenBrowser" finished-at="2023-01-17T15:36:26 IST" duration-ms="20431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="LoginApp()[pri:0, instance:pagefactory_TestNG.Test1@16610890]" started-at="2023-01-17T15:36:26 IST" name="LoginApp" finished-at="2023-01-17T15:36:27 IST" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method signature="VerifyText()[pri:0, instance:pagefactory_TestNG.Test1@16610890]" started-at="2023-01-17T15:36:27 IST" name="VerifyText" finished-at="2023-01-17T15:36:32 IST" duration-ms="5425" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[running VerifyText]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyText -->
+        <test-method is-config="true" signature="LogOutApp()[pri:0, instance:pagefactory_TestNG.Test1@16610890]" started-at="2023-01-17T15:36:32 IST" name="LogOutApp" finished-at="2023-01-17T15:36:32 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout from application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOutApp -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:pagefactory_TestNG.Test1@16610890]" started-at="2023-01-17T15:36:32 IST" name="CloseBrowser" finished-at="2023-01-17T15:36:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- pagefactory_TestNG.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
