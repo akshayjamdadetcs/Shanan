@@ -13,6 +13,6 @@ public static void main(String[] args) {
 	//Enter username/passward/click
 	driver.findElement(By.xpath("//input[@id='usernameField']")).sendKeys("akshayjamdade94@gmail.com",Keys.TAB,"8805580955",Keys.ENTER);
 	System.out.println("Hello this is Github");
-	Thread.sleep(2000);
+	
 }
 }
