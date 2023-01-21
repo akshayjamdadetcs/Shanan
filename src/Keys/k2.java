@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	driver.get("https://www.naukri.com/nlogin/login");
 	//Enter username/passward/click
 	driver.findElement(By.xpath("//input[@id='usernameField']")).sendKeys("akshayjamdade94@gmail.com",Keys.TAB,"8805580955",Keys.ENTER);
+	System.out.println("Hello this is Github");
 }
 }
