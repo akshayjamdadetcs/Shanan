@@ -3,15 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pagefactory_TestNG.Test1">
+      <class name="soft_assert.b5">
         <methods>
-          <include name="LoginApp"/>
-          <include name="LogOutApp"/>
-          <include name="VerifyText"/>
-          <include name="CloseBrowser"/>
-          <include name="OpenBrowser"/>
+          <include name="tc"/>
         </methods>
-      </class> <!-- pagefactory_TestNG.Test1 -->
+      </class> <!-- soft_assert.b5 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
