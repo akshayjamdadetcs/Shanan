@@ -9,6 +9,7 @@ public class a {
 
 	WebDriver driver=new ChromeDriver();
 	driver.get("https://google.com");
+	System.out.println("push code");
 	}
 	}
 
