@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="soft_assert.b5">
+      <class name="compatibility_teting.multibrowsers">
         <methods>
-          <include name="tc"/>
+          <include name="TC"/>
         </methods>
-      </class> <!-- soft_assert.b5 -->
+      </class> <!-- compatibility_teting.multibrowsers -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
