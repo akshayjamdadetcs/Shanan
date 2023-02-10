@@ -11,8 +11,8 @@ public class a {
 	driver.get("https://google.com");
 	System.out.println("push code");
 	
-	System.out.println("Go there");
-		int i=10;
+	
+	System.out.println("deleted");
 		
 	}
 	}
