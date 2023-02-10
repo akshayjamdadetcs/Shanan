@@ -13,8 +13,7 @@ public class a {
 	
 	System.out.println("Go there");
 		int i=10;
-		System.out.println("good");
-		System.out.println("bad");
+		
 	}
 	}
 
