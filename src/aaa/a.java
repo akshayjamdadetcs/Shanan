@@ -13,7 +13,7 @@ public class a {
 	
 	
 	System.out.println("deleted");
-		
+    System.out.println("go");
 	}
 	}
 
