@@ -12,6 +12,7 @@ public class a {
 	System.out.println("push code");
 	
 	System.out.println("Go there");
+		int i=10;
 	}
 	}
 
